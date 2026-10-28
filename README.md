@@ -4,7 +4,7 @@ A personal 90-day accountability tracker that runs in the phone browser. One HTM
 
 I built it for myself because I tend to drop projects around day 3-5. Everything in it is designed around staying consistent past that point.
 
-**Live app:** [add your Netlify link here]
+**Live app:** https://melo-tracker.netlify.app/
 
 ## What it does
 
